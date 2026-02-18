@@ -84,3 +84,34 @@ Following global investigations:
 - Governments worldwide strengthened enforcement of data protection laws.
 
 The incident accelerated awareness and enforcement of regulations such as the General Data Protection Regulation (GDPR).
+
+<h3>7. How Better Governance Could Have Prevented the Incident</h3>
+
+Effective governance mechanisms could have significantly reduced or prevented the misuse.
+
+- Strong Access Controls:_Limiting third-party access to only essential user data would have prevented mass data harvesting.
+
+- Explicit Consent Mechanisms:Separate and clear consent for political use of data should have been mandatory.
+
+- Regular Audits and Monitoring:Continuous audits of third-party applications could have detected misuse early.
+
+- Data Minimization:Collecting only necessary data reduces the risk of misuse.
+
+- Ethical Oversight:Independent ethics committees could evaluate high-risk data projects before deployment.
+
+<h3>8. Stakeholders Affected</h3>
+The scandal affected multiple stakeholders:
+- Users whose privacy was violated
+
+- Political voters exposed to manipulation
+
+- Governments responsible for regulation
+
+- Social media companies facing trust loss
+
+- Democratic institutions impacted by unethical campaigning
+<h3>  9. Conclusion</h3>
+
+The Cambridge Analytica scandal stands as a defining example of unethical data use in the digital era. It demonstrated how weak governance, lack of transparency, and disregard for ethical principles can result in widespread privacy violations and societal harm.
+
+This case emphasizes the need for robust data governance frameworks, ethical accountability, and regulatory oversight. Organizations handling personal data must ensure that innovation does not come at the cost of individual rights and democratic values.
