@@ -2,7 +2,7 @@
 
 ## 1. Introduction to Machine Learning Process
 
-### 1.1 What is Machine Learning?
+### 1.1 What is Machine Learning
 
 Machine Learning is a subset of Artificial Intelligence (AI) that allows systems to learn from data and make predictions or decisions without explicit programming. ML systems identify patterns in data and use them to automate tasks that normally require human intelligence.
 
@@ -149,6 +149,34 @@ After deployment, the model must be monitored for:
   -Need for retraining
   
 This ensures the model remains accurate and reliable over time.
+
+![WhatsApp Image 2026-02-18 at 1 23 39 PM](https://github.com/user-attachments/assets/30bc388f-ad3b-4a5d-abfa-8209d4b39e1b)
+
+#### Flowchart Notes:
+
+  - Rectangles represent processes.
+  - Diamonds or decision points indicate evaluation checks.
+  - Arrows show flow and iterations.
+  - The loop emphasizes iterative improvement
+
+## 13. Conclusion
+
+The group task demonstrates a complete Machine Learning project workflow, covering every critical step from data collection to deployment. By following this structured approach:
+
+ - Problem Definition ensures the team understands the objective and scope.
+ - Data Collection and Feature Extraction provide the foundation for accurate predictions.
+ - Algorithm Selection allows choosing the most suitable learning method for the problem type.
+ - Training and Testing teach the model to learn patterns and evaluate its ability to generalize.
+ - Evaluation and Parameter Tuning ensure the model reaches optimal performance.
+ - Deployment and Monitoring make the model functional in real-world scenarios and maintain long-term reliability.
+
+#### Key insights from this task:
+
+ - Machine Learning is iterative; continuous evaluation and tuning improve model performance.
+ - High-quality data and meaningful features are critical for accurate predictions.
+ - Structured workflows like this mirror industry-standard practices, ensuring ML projects are systematic, reproducible, and effective.
+ - Monitoring post-deployment is essential to maintain model relevance as real-world data changes.
+
 
 
 
