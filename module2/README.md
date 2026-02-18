@@ -37,7 +37,7 @@ Cambridge Analytica used the data to build psychographic profiles, categorizing 
 Step 5: Targeted Political Messaging
 
 These profiles were then used to deliver highly targeted political advertisements designed to influence voter opinions and behavior.
-<h3>4. Diagram: Data Flow and Governance Failure</h3>
+<h3>4.Data Flow and Governance Failure</h3>
 <img width="1536" height="1024" alt="ChatGPT Image Feb 18, 2026, 10_47_09 AM" src="https://github.com/user-attachments/assets/5da83d8c-c3e8-4199-bda1-03b30ab8a313" />
 
 #### The diagram visually explains:
@@ -46,6 +46,7 @@ These profiles were then used to deliver highly targeted political advertisement
 - Stakeholders affected by the misuse.
 - Governance and ethical failures that led to privacy violations.
 <h3>5. Ethical Issues Identified</h3>
+
 <h4>5.1 Lack of Informed Consent</h4>
 
 A fundamental ethical violation in this case was the absence of informed consent. While users agreed to share their data for a personality quiz, they were not clearly informed that their data would be used for political profiling. More importantly, friends of users did not provide any consent at all.
@@ -76,13 +77,9 @@ This shows that ethical responsibility extends beyond technology to organization
 Following global investigations:
 
 - Facebook was fined $5 billion by the U.S. Federal Trade Commission (FTC).
-
 - Cambridge Analytica ceased operations in 2018.
-
 - Facebook introduced stricter API controls and data access limitations.
-
 - Governments worldwide strengthened enforcement of data protection laws.
-
 The incident accelerated awareness and enforcement of regulations such as the General Data Protection Regulation (GDPR).
 
 <h3>7. How Better Governance Could Have Prevented the Incident</h3>
@@ -90,26 +87,21 @@ The incident accelerated awareness and enforcement of regulations such as the Ge
 Effective governance mechanisms could have significantly reduced or prevented the misuse.
 
 - Strong Access Controls:_Limiting third-party access to only essential user data would have prevented mass data harvesting.
-
 - Explicit Consent Mechanisms:Separate and clear consent for political use of data should have been mandatory.
-
 - Regular Audits and Monitoring:Continuous audits of third-party applications could have detected misuse early.
-
 - Data Minimization:Collecting only necessary data reduces the risk of misuse.
-
 - Ethical Oversight:Independent ethics committees could evaluate high-risk data projects before deployment.
 
 <h3>8. Stakeholders Affected</h3>
+
 The scandal affected multiple stakeholders:
-- Users whose privacy was violated
 
-- Political voters exposed to manipulation
-
-- Governments responsible for regulation
-
-- Social media companies facing trust loss
-
-- Democratic institutions impacted by unethical campaigning
+- Users whose privacy was violated.
+- Political voters exposed to manipulation.
+- Governments responsible for regulation.
+- Social media companies facing trust loss.
+- Democratic institutions impacted by unethical campaigning.
+  
 <h3>  9. Conclusion</h3>
 
 The Cambridge Analytica scandal stands as a defining example of unethical data use in the digital era. It demonstrated how weak governance, lack of transparency, and disregard for ethical principles can result in widespread privacy violations and societal harm.
